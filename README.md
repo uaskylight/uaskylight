@@ -3,7 +3,7 @@
 ### Hi there, I'm Alex 👋
 
 - 🏫 I am currently studying Full Stack Development
-- 📧 How to contact me: uaskylight@gmail.com**
+- 📧 How to contact me: uaskylight@gmail.com
 - ✅ Fun fact: There are no limits in the world except those you set for
   yourself.
 
