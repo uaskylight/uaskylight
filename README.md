@@ -1,8 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36CE11&width=435&lines=Be+yourself!+Other+roles+are+already+taken!" alt="Typing SVG" /></a>
 <h1>About Me... 😎</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there, I'm Alex 👋
 
 - 🏫 I am currently studying Full Stack Development
@@ -31,4 +29,7 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uaskylight&hide_progress=true)](https://github.com/uaskylight/github-readme-stats)
+
 
