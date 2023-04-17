@@ -31,5 +31,6 @@
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uaskylight&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uaskylight&layout=compact)](https://github.com/uaskylight/github-readme-stats)
 
 
