@@ -31,5 +31,5 @@
 
 
 
-<img alt="Visual Studio Code" width="32px" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student" />
+<img alt="Visual Studio Code" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student" />
 
