@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36CE11&width=435&lines=The+only+way+to+do+your+job+well+is+to+love+it!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=6000&pause=2000&color=08DA64&width=600&height=30&lines=The+only+way+to+do+your+job+well+is+to+love+it!)](https://git.io/typing-svg)
+
 <h1>About Me... 😎</h1>
 
 ### Hi there, I'm Alex 👋
