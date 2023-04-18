@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36CE11&width=435&lines=Be+yourself!+Other+roles+are+already+taken!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36CE11&width=435&lines=The+only+way+to+do+your+job+well+is+to+love+it!" alt="Typing SVG" /></a>
 <h1>About Me... 😎</h1>
 
 ### Hi there, I'm Alex 👋
